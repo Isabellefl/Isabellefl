@@ -3,7 +3,7 @@
 - Olá, sou @Isabellefl
 - ⚡Isabelle
 - 👀 Estou interessado em programação front-end e segurança cibernética
-- 🌱 Atualmente estou aprendendo HTML e CSS e coisas de segurança cibernética
+- 🌱 Atualmente estou aprendendo HTML e CSS e coisas de defesa cibernética
 - 💞️ Sou do Brasil
 - 📫 Estou em busca de conhecimento.
 
